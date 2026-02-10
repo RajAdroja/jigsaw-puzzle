@@ -11,3 +11,8 @@ coverage/
 # Env
 .env
 .env.*
+
+frontend/node_modules/
+frontend/dist/
+backend/node_modules/
+backend/dist/
